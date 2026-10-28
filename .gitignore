@@ -1,0 +1,19 @@
+# LTspice simulation outputs
+*.raw
+*.log
+*.op.raw
+*.fft
+*.net
+*.plt
+
+# Proteus generated files and workspace state
+*.workspace
+*.pdsbak
+*.pdsprj-backup
+*.pdsprj.~*
+
+# OS / editor state
+.DS_Store
+Thumbs.db
+*.swp
+*~
